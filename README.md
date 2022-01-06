@@ -110,6 +110,9 @@ python ./team_salary/manage.py runserver
 
 ## Let's play
 We have a single endpoint: **/api/v1/team-salary/**
+
+We can use the following postman [template](salary.postman.json) or,
+
 We can make use of the curl command in the following way:
 
 ```bash
