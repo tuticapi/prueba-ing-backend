@@ -163,5 +163,15 @@ curl -X POST 'http://localhost:8000/api/v1/team-salary/' \
 
 ## Testing
 
+You can run the tests in the following way.
 
+```bash
+python manage.py test
+```
+
+This is evidence of the output after running the tests:
+
+![](./team_salary/salary_calculator/test/test.png)
+
+Note: If you are going to run it, remember to have the viurtual environment activated.
 
